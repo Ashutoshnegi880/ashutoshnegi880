@@ -21,6 +21,12 @@ I'm a Software Developer passionate about building scalable applications, automa
   </div>
 
 ### 💼 Experience
+- **Hawk Martech** – Software Engineer-II
+  - Developed a high-performance travel booking platform with Node.js, NestJS and MongoDB. 
+  - Led Razorpay payment integration including webhooks, reconciliation and transaction synchronization. 
+  - Built a GenAI content pipeline using OpenAI APIs, cutting manual publishing effort by 60%.
+  - Used Redis caching to reduce database load under high traffic and optimize API latency.
+
 - **Yamaha** – Software Engineer  
   - Built a Generative AI system for tech stack recommendations and code generation  
   - Automated Jira + GitLab workflows using Python (Flask)  
